@@ -1,15 +1,23 @@
 <html>
+    <center>
     <head>
         <title>Web communication project</title>
         <script src="./script.js"></script>
     </head>
     <body>
-        <h1 id="header" style="color:Tomato;">Provide your credentials:</h1>
+
+
+        <body style="background-color:#787878;">
+        <hr><h1 id="header", face= "Comic Sans", style="color:#862020  ;"><b>Please enter your login and password:</b></h1><hr>
         <form>
-            <p><label for="user">Username: </label><input type="text" id="user"></p>
-            <p><label for="pass">Password: </label><input type="password" id="pass"></p>
-            <button type="button" id="submit" onclick="handle_button_click()">Submit</button>
+            <input type="text" placeholder="Enter Username" id="user" required><br>
+            <input type="password" placeholder="Enter Password" id="pass" required><br>
+
+            <br><button type="button" id="login" onclick="handle_button_click_login()">Login</button>
+            <body >or
+            <button type="button" id="sign_in" onclick="handle_button_click_signup()">Sign in</button>
         </form>
 
     </body>
+    </center>
 </html>
