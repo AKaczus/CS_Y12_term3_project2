@@ -13,6 +13,7 @@ valid_user = {
 class MyResource(Resource):
 
     def post(self):
+        print(request.values)
         if request.is_json:
             data = request.get_json()
             if data == valid_user:
