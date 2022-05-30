@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify, abort
 from flask_restful import Api, Resource
 
-PORT = 63000
+PORT = 63100
 
 app = Flask('ಠ_ಠ')
 api = Api(app)

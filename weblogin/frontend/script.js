@@ -13,7 +13,7 @@ handle_response = (response) => {
 };
 
 handle_button_click_login = (event) => {
-    var url = "http://localhost:63000/login";
+    var url = "http://localhost:63100/login";
     var user_input = document.getElementById("user");
     var pass_input = document.getElementById("pass");
     var header = document.getElementById("header");
@@ -30,7 +30,7 @@ handle_button_click_login = (event) => {
 }
 
 handle_button_click_signin = (event) => {
-    var url = "http://localhost:63000/sign_in";
+    var url = "http://localhost:63100/sign_in";
     var user_input = document.getElementById("user");
     var pass_input = document.getElementById("pass");
     var pass_ver_input = document.getElementById("pass_ver");
