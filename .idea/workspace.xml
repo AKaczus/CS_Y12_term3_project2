@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c14a0e5b-46a4-410b-bfcb-8ce6159aa448" name="Changes" comment="adition of &quot;art gallery&quot; (adition of pages with artworks)">
-      <change afterPath="$PROJECT_DIR$/imgs/PXA_AW_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/PXA_AW_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/PXA_AW_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/PXA_AW_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/PXA_AW_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblogin/frontend/styles_pages.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.login.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -43,6 +48,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,6 +65,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/weblogin/frontend" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -137,7 +144,7 @@
       <workItem from="1653681003128" duration="421000" />
       <workItem from="1653757456474" duration="64000" />
       <workItem from="1653893183623" duration="515000" />
-      <workItem from="1653893836200" duration="12580000" />
+      <workItem from="1653893836200" duration="13769000" />
     </task>
     <task id="LOCAL-00001" summary="add things">
       <created>1653634902430</created>
@@ -188,7 +195,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653928204523</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adition of &quot;art gallery&quot; (adition of pages with artworks)">
+      <created>1653929092516</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653929092516</updated>
+    </task>
+    <task id="LOCAL-00009" summary="adition of &quot;art gallery&quot; (adition of pages with artworks)">
+      <created>1653929276869</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653929276869</updated>
+    </task>
+    <task id="LOCAL-00010" summary="adition of &quot;art gallery&quot; (adition of pages with artworks)">
+      <created>1653929351421</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653929351421</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
