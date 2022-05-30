@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+}
+body {
+            color: black;
+            background-image: url('/imgs/DA_AW_1.jpg');
+            background-repeat: no-repeat;
+            background-position: center;
+            background-size: 600px 600px;
+            background-color: #5bbaff;
+}
+h1 {
+    color: black;
+    border: 2px solid white;
+    border-radius: 6px;
+    font-family: Copperplate, Fantasy;
+}
+footer {
+    font-family: Copperplate, Fantasy;
+    vertical-align: sub;
+}
