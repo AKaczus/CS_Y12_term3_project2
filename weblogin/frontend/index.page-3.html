@@ -1,0 +1,54 @@
+<html>
+    <head>
+        <title>Website.page_three</title>
+        <script src="./script.js"></script>
+        <style>
+        body {
+            color: black;
+            background-color: #5bbaff;
+        }
+        h1 {
+            color: black;
+            border: 2px solid white;
+            border-radius: 6px;
+            font-family: Copperplate, Fantasy;
+        }
+        div.gallery {
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 180px;
+        }
+        div.gallery:hover {
+          border: 1px solid #777;
+        }
+        div.gallery img {
+          width: 100%;
+          height: auto;
+        }
+        div.desc {
+          padding: 15px;
+          text-align: center;
+        }
+        </style>
+    </head>
+    <center>
+    <body>
+        <h1 id="header"><b>Page Three - Three dimensional artworks</b></h1>
+        <form>
+            <button type="button" id="Previous" onclick= "window.location.href = 'index.page-2.html'" >Previous</button
+            <p> or
+            <button type="button" id="Next" onclick= "window.location.href = 'index.page-4.html'" >Next</button>
+
+            <br><br><br><br><br><br>
+
+            <div class="gallery">
+                <a target="_blank" href="/imgs/3D_AW_1.PNG">
+                    <img src="/imgs/3D_AW_1.PNG" alt="Dzbankus" width="600" height="400">
+                </a>
+                <div class="desc">An object made during 3D Design classes</div>
+            </div>
+        </form>
+    </body>
+    </center>
+</html>

@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>Website.page_two</title>
+        <script src="./script.js"></script>
+        <style>
+        body {
+            color: black;
+            background-color: #5bbaff;
+        }
+        h1 {
+            color: black;
+            border: 2px solid white;
+            border-radius: 6px;
+            font-family: Copperplate, Fantasy;
+        }
+        div.gallery {
+          margin: 5px;
+          border: 1px solid #ccc;
+          float: left;
+          width: 180px;
+        }
+        div.gallery:hover {
+          border: 1px solid #777;
+        }
+        div.gallery img {
+          width: 100%;
+          height: auto;
+        }
+        div.desc {
+          padding: 15px;
+          text-align: center;
+        }
+        </style>
+    </head>
+    <center>
+    <body>
+        <h1 id="header"><b>Page Two - Digital Art</b></h1>
+        <form>
+            <button type="button" id="Previous" onclick= "window.location.href = 'index.page-1.html'" >Previous</button
+            <p> or
+            <button type="button" id="Next" onclick= "window.location.href = 'index.page-3.html'" >Next</button>
+
+            <br><br><br><br><br><br>
+
+            <div class="gallery">
+                <a target="_blank" href="/imgs/DA_AW_1.jpg">
+                    <img src="/imgs/DA_AW_1.jpg" alt="AntiWar Poster" width="600" height="400">
+                </a>
+                <div class="desc">An anti-war poster created digitaly</div>
+            </div>
+
+            <div class="gallery">
+                <a target="_blank" href="/imgs/DA_AW_2.jpg">
+                    <img src="/imgs/DA_AW_2.jpg" alt="Flowers of the war" width="600" height="400">
+                </a>
+                <div class="desc">An anti-war poster created digitaly</div>
+            </div>
+
+        </form>
+    </body>
+    </center>
+</html>
