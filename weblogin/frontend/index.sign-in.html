@@ -6,41 +6,23 @@
         <head>
         <title>Website.login</title>
         <script src="./script.js"></script>
-        <style>
-        body {
-            color: black;
-            background-image: url('/imgs/DA_AW_1.jpg');
-            background-repeat: no-repeat;
-            background-position: center;
-            background-size: 600px 600px;
-            background-color: #5bbaff;
-        }
-        h1 {
-            color: black;
-            border: 2px solid white;
-            border-radius: 6px;
-            font-family: Copperplate, Fantasy;
-        }
-        footer {
-            font-family: Copperplate, Fantasy;
-            vertical-align: sub;
-        }
-        </style>
+        <link href="styles_log-sin.css" rel="stylesheet" media="all" />
     </head>
     <body>
-        <h1 id="header"><b>Sign In</b></h1>
-        <form>
-            <input type="text" placeholder="Enter Username" id="user" required><br>
-            <input type="password" placeholder="Enter Password" id="pass" required><br>
-            <input type="password" placeholder="Verify Password" id="pass_ver" required><br>
+        <div class="container">
+            <h1 id="header"><b>Sign In</b></h1>
+            <form>
+                <input type="text" placeholder="Enter Username" id="user" required><br>
+                <input type="password" placeholder="Enter Password" id="pass" required><br>
+                <input type="password" placeholder="Verify Password" id="pass_ver" required><br>
 
-            <br><button type="button" id="sign_in" onclick="handle_button_click_signin()">Sign in</button
-            <p> or
-            <button type="button" id="login" onclick= "window.location.href = 'index.login.html'" >Login</button>
-        </form>
+                <br><button type="button" id="sign_in" onclick="handle_button_click_signin()">Sign in</button
+                <p> or
+                <button type="button" id="login" onclick= "window.location.href = 'index.login.html'" >Login</button>
+            </form>
     </body>
     <footer>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
         <a href="https://www.youtube.com/watch?v=j8PxqgliIno", target="_blank">Terms & Privacy</a><br><br>
         <button type="button" id="Guest" onclick= "window.location.href = 'index.page-1.html'" >Enter as guest</button>
     </footer>

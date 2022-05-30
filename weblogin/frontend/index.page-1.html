@@ -2,54 +2,24 @@
     <head>
         <title>Website.page_one</title>
         <script src="./script.js"></script>
-        <style>
-        body {
-            color: black;
-            background-color: #5bbaff;
-        }
-        h1 {
-            color: black;
-            border: 2px solid white;
-            border-radius: 6px;
-            font-family: Copperplate, Fantasy;
-        }
-        div.gallery {
-          margin: 5px;
-          border: 1px solid #ccc;
-          float: left;
-          width: 180px;
-        }
-        div.gallery:hover {
-          border: 1px solid #777;
-        }
-        div.gallery img {
-          width: 100%;
-          height: auto;
-        }
-        div.desc {
-          padding: 15px;
-          text-align: center;
-        }
-        </style>
+        <link href="styles_pages.css" rel="stylesheet" media="all" />
     </head>
-    <center>
     <body>
-        <h1 id="header"><b>Page One - Drawings</b></h1>
-        <form>
-            <button type="button" id="Exit" onclick= "window.location.href = 'index.login.html'" >Exit</button
-            <p> or
-            <button type="button" id="Next" onclick= "window.location.href = 'index.page-2.html'" >Next</button>
+        <div class="container">
+            <h1 id="header"><b>Page One - Drawings</b></h1>
+            <form>
+                <button type="button" id="Exit" onclick= "window.location.href = 'index.login.html'" >Exit</button
+                <p> or
+                <button type="button" id="Next" onclick= "window.location.href = 'index.page-2.html'" >Next</button>
 
-            <br><br><br><br><br><br>
+                <br><br><br><br><br><br>
 
-            <div class="gallery">
-                <a target="_blank" href="/imgs/HD_AW_1.jpg">
-                    <img src="/imgs/HD_AW_1.jpg" alt="hand sanitizer bottle" width="600" height="400">
-                </a>
-                <div class="desc">Hand drawing of the hand sanitizer bottle</div>
-            </div>
-
-        </form>
+                <div class="gallery">
+                    <a target="_blank" href="/imgs/HD_AW_1.jpg">
+                        <img src="/imgs/HD_AW_1.jpg" alt="hand sanitizer bottle" width="600" height="400">
+                    </a>
+                    <div class="desc">Hand drawing of the hand sanitizer bottle</div>
+                </div>
+            </form>
     </body>
-    </center>
 </html>
