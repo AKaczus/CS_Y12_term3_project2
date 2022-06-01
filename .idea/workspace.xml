@@ -4,9 +4,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c14a0e5b-46a4-410b-bfcb-8ce6159aa448" name="Changes" comment="adition of &quot;art gallery&quot; (adition of pages with artworks)">
-      <change afterPath="$PROJECT_DIR$/weblogin/frontend/styles_pages.css" afterDir="false" />
+    <list default="true" id="c14a0e5b-46a4-410b-bfcb-8ce6159aa448" name="Changes" comment="css files and all pages update">
+      <change afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_4.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_6.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/SA_AW/SA_AW_1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-intro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/3D_AW_1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/3D_AW/3D_AW_1.PNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/C_AW_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/C_AW/C_AW_1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/DA_AW_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/DA_AW_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/HD_AW_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.login.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" afterDir="false" />
@@ -15,7 +36,7 @@
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,12 +96,17 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/weblogin/frontend" />
+      <recent name="$PROJECT_DIR$/weblogin/frontend" />
+      <recent name="$PROJECT_DIR$/weblogin/frontend" />
       <recent name="$PROJECT_DIR$/imgs" />
       <recent name="$PROJECT_DIR$/weblogin/frontend" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs/P_PH" />
+      <recent name="$PROJECT_DIR$/imgs/SA_AW" />
       <recent name="$PROJECT_DIR$/imgs" />
-      <recent name="$PROJECT_DIR$/weblogin/frontend/Pages" />
+      <recent name="$PROJECT_DIR$/imgs/3D_AW" />
+      <recent name="$PROJECT_DIR$/imgs/C_AW" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.login.html">
@@ -144,7 +170,14 @@
       <workItem from="1653681003128" duration="421000" />
       <workItem from="1653757456474" duration="64000" />
       <workItem from="1653893183623" duration="515000" />
-      <workItem from="1653893836200" duration="13769000" />
+      <workItem from="1653893836200" duration="13922000" />
+      <workItem from="1653931210041" duration="189000" />
+      <workItem from="1653931446811" duration="22000" />
+      <workItem from="1653931472953" duration="1000" />
+      <workItem from="1653931539460" duration="2218000" />
+      <workItem from="1653984791519" duration="2000000" />
+      <workItem from="1653991069352" duration="730000" />
+      <workItem from="1654011537662" duration="180000" />
     </task>
     <task id="LOCAL-00001" summary="add things">
       <created>1653634902430</created>
@@ -216,7 +249,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653929351421</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="css files and all pages update">
+      <created>1653930290270</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653930290270</updated>
+    </task>
+    <task id="LOCAL-00012" summary="css files and all pages update">
+      <created>1653930302724</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653930302724</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +287,8 @@
     <MESSAGE value="visual changes + background img" />
     <MESSAGE value="visual changes" />
     <MESSAGE value="adition of &quot;art gallery&quot; (adition of pages with artworks)" />
-    <option name="LAST_COMMIT_MESSAGE" value="adition of &quot;art gallery&quot; (adition of pages with artworks)" />
+    <MESSAGE value="css files and all pages update" />
+    <option name="LAST_COMMIT_MESSAGE" value="css files and all pages update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS_Y12_Term3_Project2$wsgi__1_.coverage" NAME="wsgi (1) Coverage Results" MODIFIED="1653757473026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weblogin/backend" />
