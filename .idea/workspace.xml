@@ -4,35 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c14a0e5b-46a4-410b-bfcb-8ce6159aa448" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/imgs/C_AW/C_AW_2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/C_AW/C_AW_3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/SA_AW/SA_AW_2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblogin/frontend/styles_home.css" afterDir="false" />
+    <list default="true" id="c14a0e5b-46a4-410b-bfcb-8ce6159aa448" name="Changes" comment="Home page + more gallery things + visual update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.login.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-3.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-intro.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles_pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_pages.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.home.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles_home.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_home.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -174,7 +149,8 @@
       <workItem from="1653984791519" duration="2000000" />
       <workItem from="1653991069352" duration="730000" />
       <workItem from="1654011537662" duration="7645000" />
-      <workItem from="1654101003048" duration="9368000" />
+      <workItem from="1654101003048" duration="10607000" />
+      <workItem from="1654248227517" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="add things">
       <created>1653634902430</created>
@@ -281,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654086895501</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Home page + more gallery things + visual update">
+      <created>1654246989532</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1654246989532</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,7 +290,8 @@
     <MESSAGE value="adition of &quot;art gallery&quot; (adition of pages with artworks)" />
     <MESSAGE value="css files and all pages update" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="Home page + more gallery things + visual update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Home page + more gallery things + visual update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CS_Y12_Term3_Project2$wsgi__1_.coverage" NAME="wsgi (1) Coverage Results" MODIFIED="1653757473026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weblogin/backend" />
