@@ -11,20 +11,24 @@
     <body>
         <div class="container">
             <h1 id="header"><b>Sign In</b></h1>
-            <form>
-                <input type="text" placeholder="Enter Username" id="user" required><br>
-                <input type="password" placeholder="Enter Password" id="pass" required><br>
-                <input type="password" placeholder="Verify Password" id="pass_ver" required><br>
 
-                <br><button type="button" id="sign_in" onclick="handle_button_click_signin()">Sign in</button
-                <p> or
-                <button type="button" id="login" onclick= "window.location.href = 'index.login.html'" >Login</button>
+            <form>
+                <input type="text" placeholder="Enter Username" id="user" required>
+                <br><br>
+                <input type="password" placeholder="Enter Password" id="pass" required>
+                <br><br>
+                <input type="password" placeholder="Verify Password" id="pass_ver" required><br>
+                <p>
+                    <br><button type="button" id="sign_in" onclick="handle_button_click_signin()">Sign in</button>
+                     or
+                    <button type="button" id="login" onclick= "window.location.href = 'index.login.html'" >Login</button>
+                </p>
             </form>
     </body>
     <footer>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <a href="https://www.youtube.com/watch?v=j8PxqgliIno", target="_blank">Terms & Privacy</a><br><br>
-        <button type="button" id="Guest" onclick= "window.location.href = 'index.page-intro.html'" >Enter as guest</button>
+        <div style = "position:relative; top:460px;">
+        <button type="button" id="home" onclick= "window.location.href = 'index.home.html'" >Home</button><br><br>
+        <a href="https://www.youtube.com/watch?v=j8PxqgliIno", target="_blank">Terms & Privacy</a>
     </footer>
     </center>
 </html>

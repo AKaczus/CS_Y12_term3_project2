@@ -5,29 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c14a0e5b-46a4-410b-bfcb-8ce6159aa448" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_4.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_6.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/SA_AW/SA_AW_1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-intro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/C_AW/C_AW_2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/C_AW/C_AW_3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_3.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_4.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/P_PH/P_PH_9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/SA_AW/SA_AW_2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weblogin/frontend/styles_home.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/3D_AW_1.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/3D_AW/3D_AW_1.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/C_AW_1.JPG" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/C_AW/C_AW_1.JPG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/DA_AW_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/DA_AW_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/DA_AW/DA_AW_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/HD_AW_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/HD_AW/HD_AW_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imgs/PXA_AW_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/imgs/PXA_AW/PXA_AW_5.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.login.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-2.html" afterDir="false" />
@@ -35,8 +27,12 @@
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-4.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-7.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.page-intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.page-intro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/index.sign-in.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_log-sin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weblogin/frontend/styles_pages.css" beforeDir="false" afterPath="$PROJECT_DIR$/weblogin/frontend/styles_pages.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,28 +94,28 @@
       <recent name="$PROJECT_DIR$/weblogin/frontend" />
       <recent name="$PROJECT_DIR$/weblogin/frontend" />
       <recent name="$PROJECT_DIR$/weblogin/frontend" />
-      <recent name="$PROJECT_DIR$/imgs" />
+      <recent name="$PROJECT_DIR$/weblogin/frontend" />
       <recent name="$PROJECT_DIR$/weblogin/frontend" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs/HD_AW" />
       <recent name="$PROJECT_DIR$/imgs/P_PH" />
       <recent name="$PROJECT_DIR$/imgs/SA_AW" />
       <recent name="$PROJECT_DIR$/imgs" />
-      <recent name="$PROJECT_DIR$/imgs/3D_AW" />
       <recent name="$PROJECT_DIR$/imgs/C_AW" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.login.html">
+  <component name="RunManager" selected="JavaScript Debug.index.home.html">
     <configuration name="....html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CS_Y12_Term3_Project2/weblogin/frontend/....html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CS_Y12_Term3_Project2/weblogin/frontend/index.home.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.login.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CS_Y12_Term3_Project2/weblogin/frontend/index.login.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.page-1.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CS_Y12_Term3_Project2/weblogin/frontend/Pages/index.page-1.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.sign-in.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/CS_Y12_Term3_Project2/weblogin/frontend/index.sign-in.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="wsgi (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -146,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.home.html" />
         <item itemvalue="JavaScript Debug.index.login.html" />
         <item itemvalue="JavaScript Debug.index.page-1.html" />
         <item itemvalue="JavaScript Debug.....html" />
         <item itemvalue="Python.wsgi (1)" />
-        <item itemvalue="JavaScript Debug.index.sign-in.html" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +173,8 @@
       <workItem from="1653931539460" duration="2218000" />
       <workItem from="1653984791519" duration="2000000" />
       <workItem from="1653991069352" duration="730000" />
-      <workItem from="1654011537662" duration="697000" />
+      <workItem from="1654011537662" duration="7645000" />
+      <workItem from="1654101003048" duration="9368000" />
     </task>
     <task id="LOCAL-00001" summary="add things">
       <created>1653634902430</created>
@@ -270,7 +267,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654086209790</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update">
+      <created>1654086849043</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654086849043</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update">
+      <created>1654086895501</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1654086895501</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
